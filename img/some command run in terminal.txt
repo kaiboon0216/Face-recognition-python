@@ -1,0 +1,7 @@
+Command that run in terminal
+1. face_recognition ./known_dir ./unknown_dir -> use to compare the known images with unknown images 
+2. face_recognition --show-distance true ./known_dir ./unknown_dir -> display the distance between 2 images
+3. face_recognition --tolerance 0.50 ./known_dir ./unknown -> set the tolerance
+4. face_recognition ./known_dir ./unknown_dir | cut -d ',' -f2 -> show only name of the person
+
+
