@@ -15,6 +15,7 @@ Clone this repo and run the python file on cmd/terminal/colab.
 # Some sample result
 <img src="img/result1.png">
 <img src="img/result2.png">
+<img src="img/result3.png">
 
 # Acknowledgement
 Some of the codes are borrowed from [ageitgey](https://github.com/ageitgey/face_recognition) repo.
